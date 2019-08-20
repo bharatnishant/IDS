@@ -23,7 +23,15 @@ Model's accuracy lies around 85% which is a quite decent score as of now. It nee
 2. Federated Learning: Pirvacy is an important concern for today's world and evevn in some critical applications like network, details can be used maliciously by some other users, so need to protect the privacy. For now applying federated learning is throwing some errors which is to be rrectified further and certainly we'll be able to correct those errors.
 
 # Project workflow
-1. Data-preprocessing: Computers don't understand the data in raw form we need to make it understand it by converting it into numbers that too in specific range. Data is cleaned from any noise and data is made unbiased, rdundancies are removed so we have a nice data to feed to our model.
-2. Model: An algorithm implementation where we feed the data and it gives out the result. MLP algorithm has been used here for the classification task.
-3. Training: Data is given to the network which in turn learn the patterns from the data and update its parameters so that it could give best results.
-4. Testing: A different data is given to the model as it getting trained so that to verify that the model prrdicts the results well or not. This, with test set we calculate the accuracy of the model.
+
+**1. Data-preprocessing:** Computers don't understand the data in raw form we need to make it understand it by converting it into numbers that too in specific range. Data is cleaned from any noise and data is made unbiased, rdundancies are removed so we have a nice data to feed to our model.
+**2. Model:** An algorithm implementation where we feed the data and it gives out the result. MLP algorithm has been used here for the classification task.
+**3. Training:** Data is given to the network which in turn learn the patterns from the data and update its parameters so that it could give best results.
+**4. Testing:** A different data is given to the model as it getting trained so that to verify that the model prrdicts the results well or not. This, with test set we calculate the accuracy of the model.
+
+
+# Project done by:
+This project is indended for Udacity's **Secure and Private AI** Scholarship, for the project showcase challenge. 
+Created by:
+1. Nishant Bharat - @Nishant Bharat *(Slack Handle)*
+2. Jaiki Yadav - @Jaiki Yadav *(Slack Handle)*
