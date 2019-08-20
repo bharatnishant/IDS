@@ -24,9 +24,9 @@ Model's accuracy lies around 85% which is a quite decent score as of now. It nee
 
 # Project workflow
 
-**1. Data-preprocessing:** Computers don't understand the data in raw form we need to make it understand it by converting it into numbers that too in specific range. Data is cleaned from any noise and data is made unbiased, rdundancies are removed so we have a nice data to feed to our model.
-**2. Model:** An algorithm implementation where we feed the data and it gives out the result. MLP algorithm has been used here for the classification task.
-**3. Training:** Data is given to the network which in turn learn the patterns from the data and update its parameters so that it could give best results.
+**1. Data-preprocessing:** Computers don't understand the data in raw form we need to make it understand it by converting it into numbers that too in specific range. Data is cleaned from any noise and data is made unbiased, rdundancies are removed so we have a nice data to feed to our model. <br />
+**2. Model:** An algorithm implementation where we feed the data and it gives out the result. MLP algorithm has been used here for the classification task. <br />
+**3. Training:** Data is given to the network which in turn learn the patterns from the data and update its parameters so that it could give best results. <br />
 **4. Testing:** A different data is given to the model as it getting trained so that to verify that the model prrdicts the results well or not. This, with test set we calculate the accuracy of the model.
 
 
