@@ -33,5 +33,4 @@ Model's accuracy lies around 85% which is a quite decent score as of now. It nee
 # Project done by:
 This project is indended for Udacity's **Secure and Private AI** Scholarship, for the project showcase challenge. 
 Created by:
-1. Nishant Bharat - @Nishant Bharat *(Slack Handle)*
-2. Jaiki Yadav - @Jaiki Yadav *(Slack Handle)*
+Nishant Bharat 
