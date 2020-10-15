@@ -29,8 +29,3 @@ Model's accuracy lies around 85% which is a quite decent score as of now. It nee
 **3. Training:** Data is given to the network which in turn learn the patterns from the data and update its parameters so that it could give best results. <br />
 **4. Testing:** A different data is given to the model as it getting trained so that to verify that the model prrdicts the results well or not. This, with test set we calculate the accuracy of the model.
 
-
-# Project done by:
-This project is indended for Udacity's **Secure and Private AI** Scholarship, for the project showcase challenge.   
-Created by:  
-Nishant Bharat 
